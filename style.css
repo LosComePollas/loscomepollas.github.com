@@ -1,0 +1,463 @@
+
+*{ background-color:#85C1E9 ;
+    
+
+}
+
+a{text-decoration: none;
+    font-family: 'Mouse Memoirs', sans-serif;
+color:black}
+
+
+.posicion-flecha-azul{position: absolute;
+
+left:1150px;
+
+}
+
+
+.posicion-campana{position: absolute;
+
+top:300px;
+left:0px;
+
+
+}
+
+.letra-campana{ position: absolute;
+    width: 180px;;
+
+    top:445px;
+    left:0px;
+    color: #D35400;
+    
+    font-family: 'Mouse Memoirs', sans-serif; }
+
+
+
+.posicion-culo{
+    
+    position: relative;
+    top:350px;
+left:1150px;
+
+
+
+
+}
+
+
+
+.posicion-flecha-azul-2{position: absolute;
+
+}
+
+
+.letra-flecha-siguiente-2{position: absolute;
+    width: 320px;
+
+    font-family: 'Mouse Memoirs', sans-serif;
+    left: 0px;
+    top:125px;
+    
+    
+    color: #D35400;
+    
+    
+    font-size: 35px;}
+
+
+
+.letra-culo-siguiente-3{
+    font-family: 'Mouse Memoirs', sans-serif;
+
+    position: absolute;
+    left:1140px;
+    top:480px;
+
+
+    width: 180px;
+    
+   
+    
+    
+    color: #D35400;
+    
+    
+    font-size: 35px;}
+
+
+
+
+
+
+
+
+
+.letra-flecha-siguiente{position: absolute;
+
+    font-family: 'Mouse Memoirs', sans-serif;
+    top:150px;
+
+    left:1140px;
+    width: 250px;;
+    
+    font-size: 30px;
+    color: #D35400;
+
+
+}
+
+
+
+
+.mari-jaia{position: absolute;
+    border-radius: 20px;
+    border: solid 10px green;
+    
+    top:350px;
+    left:300px;
+               
+
+
+}
+
+.cabeza-cipote{position: absolute;
+    border-radius: 50%;
+    border: solid 10px orange;
+    width: 500px;
+    height: 500px;
+
+top:1600px;
+left:390px;
+
+}
+
+
+
+#subtitulo{position: absolute;
+    top:0px;
+    left:380px;
+    
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 100px;
+          color:#D35400 ;
+
+}
+
+#subtitulo-2{position: absolute;
+    font-family: 'Staatliches', cursive;
+
+    top:3300px;
+    
+    
+    font-size: 80px;
+    
+    border-radius: 20px;
+    color:  #D35400;
+             border:double 30px #33F0FF  ;
+             padding: 30px;
+
+
+}
+
+
+
+#subtitulo-3{position: absolute;
+    font-family: 'Mouse Memoirs', sans-serif;
+
+    top:1150px;
+    
+    
+    font-size: 100px;}
+
+
+.comeis-rabo{position: absolute;
+left:30%;
+top:200px;
+}
+
+   
+#rabo-feos{position: absolute;
+    border-radius: 10px;
+    border: double 10px #7D3C98;
+left:13%;
+top:2900px;
+
+}
+
+
+
+
+
+.escremento{margin:solid 20px #AF7AC5 ;}
+
+
+#titulo-pag{position: absolute;
+    font-family: 'Permanent Marker', cursive;
+
+    top:3500px;
+    
+    font-size: 130px;
+    text-decoration: solid 3px #A93226;
+
+       color:#0A56A6  ;
+
+}
+
+
+#come-salchichas{position: absolute;
+    border-radius: 20px;
+    border: solid  10px   gray;
+
+    height: 870px;
+          opacity: 90%;
+                 left: 350px;
+                 top:5500px;
+
+
+} 
+
+
+
+
+.dedo{position: absolute;
+    
+    left: 600px;
+    top: 4180px;
+
+
+    bottom: -1450px;
+}
+
+
+#cuentitis{position: absolute;
+    font-family: 'Acme', sans-serif;
+    top:3050px;
+    font-weight: 800;
+    text-decoration: double;
+    border: solid 5px #F4D03F;
+    color:#E74C3C ;
+font-size: 70px;
+
+}
+
+
+
+
+#texto{ position: absolute;
+    font-family: 'Patrick Hand', cursive;
+
+    top:4500px;
+    left:370px;
+    
+    font-weight: 900;
+    column-fill: 1;
+    border: double 15px #A93226;
+   
+
+    color: #1F618D;
+height: 600px;
+width: 600px;
+
+
+
+}
+
+
+
+
+#texto-2{position: absolute;
+    font-family: 'Acme', sans-serif;
+    font-weight: 800;
+    color:#2874A6;
+
+    top:2700px;
+    
+    font-size: 70px;}
+
+    #texto-4{position: absolute;
+        font-family: 'Bangers', cursive;
+        font-size: 85px;
+        top:2130px;
+        left:450px;
+    width: 450px;
+    height: 450px;
+    
+    }
+
+    .texto-5{position: absolute;
+        font-family: 'Bangers', cursive;
+        border:solid 15px #D35400;
+        font-size: 100px;
+        top:6400px;
+        left:270px;
+        width: 750px;
+        height: 1750px;}
+
+
+        #siempreSalchica{position: absolute;
+            background-color: #AF7AC5;
+            border:solid 15px #D35400;
+            color:#0A56A6;
+            font-size: 95px;
+        
+            top:5130px;
+            left:0px;
+
+        font-family: 'Bangers', cursive;
+        
+        
+        }
+
+
+        @media screen and (max-width:781px){
+
+            #subtitulo{position: absolute;
+                top:-70px;
+                left: 400px;
+                font-family: 'Mouse Memoirs', sans-serif;
+                font-size: 100px;
+                      color:#D35400 ;
+            
+            }
+
+            #subtitulo-3{position: absolute;
+                font-family: 'Mouse Memoirs', sans-serif;
+                width: 250px;
+            top:1250px;
+                left:500px;
+                font-size: 50px;}
+
+                #texto-4{position: absolute;
+                    font-family: 'Bangers', cursive;
+                    font-size: 85px;
+                    top:2130px;
+                    left:400px;
+                width: 450px;
+                height: 450px;
+                
+                }
+
+                #cuentitis{position: absolute;
+                    font-family: 'Acme', sans-serif;
+                    top:2550px;
+                    left:500px;
+                    font-weight: 800;
+                    text-decoration: double;
+                    border: solid 5px #F4D03F;
+                    color:#E74C3C ;
+                font-size: 70px;
+                
+                }
+                
+
+
+
+
+                #texto-2{position: absolute;
+                    font-family: 'Acme', sans-serif;
+                    font-weight: 800;
+                    color:#2874A6;
+                    left:370px ;
+                
+                    top:5150px;
+                    
+                    font-size: 70px;}
+
+
+                    #rabo-feos{position: absolute;
+                        border-radius: 10px;
+                        border: double 10px #7D3C98;
+                    left:13%;
+                    top:3700px;
+                    
+                    }
+                    
+
+                    #subtitulo-2{position: absolute;
+                        font-family: 'Staatliches', cursive;
+                        left:500px;
+                    
+                        top:3000px;
+                        
+                        
+                        font-size: 50px;
+                        
+                        border-radius: 20px;
+                        color:  #D35400;
+                                 border:double 30px #33F0FF  ;
+                                 padding: 30px;
+                    
+                    
+                    }
+                    
+
+
+                    #titulo-pag{position: absolute;
+                        font-family: 'Permanent Marker', cursive;
+                    
+                        top:4300px;
+                        left:300px;
+                        
+                        font-size: 100px;
+                        text-decoration: solid 3px #A93226;
+                    
+                           color:#0A56A6  ;
+                    
+                    }
+                    
+
+
+                    #texto{ position: absolute;
+                        font-family: 'Patrick Hand', cursive;
+                    
+                        top:5700px;
+                        left:270px;
+                        
+                        font-weight: 900;
+                        column-fill: 1;
+                        border: double 15px #A93226;
+                       
+                    
+                        color: #1F618D;
+                    height: 600px;
+                    width: 600px;
+                    
+                    
+                    
+                    }
+                    
+
+
+                    #come-salchichas{position: absolute;
+                        border-radius: 20px;
+                        border: solid  10px   gray;
+                    
+                        height: 870px;
+                              opacity: 90%;
+                                     left: 350px;
+                                     top:9200px;
+                    
+                    
+                    } 
+                    
+                    
+
+
+                    #siempreSalchica{position: absolute;
+                        background-color: #AF7AC5;
+                        border:solid 15px #D35400;
+                        color:#0A56A6;
+                        font-size: 95px;
+                    
+                        top:8330px;
+                        left:350px;
+            
+                    font-family: 'Bangers', cursive;
+                    
+                    
+                    }
+
+
+        }

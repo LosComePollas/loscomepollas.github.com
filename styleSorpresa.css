@@ -1,0 +1,79 @@
+
+
+
+.Titulopag-Sorpresa{
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 100px;
+          color:#D35400 ;}
+
+
+          .caca-gif{position: absolute;
+        
+        left:550px;
+        
+        }
+
+
+        .subtitulopag-Sorpresa{position: absolute;
+
+            top:700px;
+            font-family: 'Mouse Memoirs', sans-serif;
+        font-size: 100px;
+              color:#D35400 ;}
+
+
+              .pene-gif{position: absolute;
+                top:1200px;
+        
+                left:550px;}
+
+
+
+                @media screen and (max-width:781px){
+
+
+
+
+
+                    .Titulopag-Sorpresa{
+                        position: absolute;
+                        width: 100%;
+                        top:0;
+                        left:420px;
+                        font-family: 'Mouse Memoirs', sans-serif;
+                        font-size: 100px;
+                              color:#D35400 ;}
+                    
+                    
+                              .caca-gif{position: absolute;
+                                top:935px;
+                            
+                            left:450px;
+                            
+                            }
+                    
+                    
+                            .subtitulopag-Sorpresa{position: absolute;
+                    
+                                top:1200px;
+                                left:430px;
+                                width: 100%;
+                                font-family: 'Mouse Memoirs', sans-serif;
+                            font-size: 100px;
+                                  color:#D35400 ;}
+                    
+                    
+                                  .pene-gif{position: absolute;
+                                    top:2550px;
+                            
+                                    left:450px;}
+                    
+
+
+
+
+
+
+
+
+                }

@@ -1,0 +1,223 @@
+*{  background-color:#85C1E9;
+
+
+
+}
+
+
+
+.titulo--eureka{ 
+    
+    
+    font-size: 100px;
+
+    font-family: 'Mouse Memoirs', sans-serif;
+    color: #F97806 ;
+
+
+}
+
+.img-eureka{position: absolute;
+    border-radius: 20px;
+    border:solid 3px #8E44AD ;
+
+    
+    left:500px;
+    top:330px;
+    
+    
+    
+    width: 350px;}
+
+
+    .subtitulo--eureka-1{ 
+
+        position: absolute;
+
+    
+        
+        top:680px;
+
+        font-size: 100px;
+
+        font-family: 'Mouse Memoirs', sans-serif;
+        color: #F97806 ;
+    
+        
+
+
+      }
+
+
+
+      .img-escupiendo{   position: absolute;
+        border-radius: 10px;
+        border:solid 10px #707B7C ;
+
+    
+        
+        top:1000px;
+
+        left:430px;
+   }
+
+
+   .img-dedo{position: absolute;
+    top:1300px;
+
+
+   }
+
+
+   .subtitulo--eureka-2{position: absolute;
+    top:1300px;
+    left:800px;
+    width: 300px;
+
+    font-size: 80px;
+
+    font-family: 'Mouse Memoirs', sans-serif;
+    color: #F97806 ;
+
+
+
+   }
+
+
+
+.img-dedo-ok{ position: absolute;
+    top:2100px;
+    left:800px;  }
+
+
+    .subtitulo--eureka-3{ position: absolute;
+        width: 500px;;
+        top:2100px;
+        left:100px; 
+        font-size: 100px;
+
+        font-family: 'Mouse Memoirs', sans-serif;
+        color: #F97806 ;
+    
+    
+    
+    }
+
+
+
+   @media screen and (max-width:781px){
+
+
+
+    .titulo--eureka{ position: absolute;
+
+        left:400px;
+    
+    
+        font-size: 100px;
+    
+        font-family: 'Mouse Memoirs', sans-serif;
+        color: #F97806 ;
+    
+    
+    }
+
+
+
+
+    .img-eureka{position: absolute;
+        border-radius: 20px;
+        border:solid 3px #8E44AD ;
+    
+        
+        left:450px;
+        top:330px;
+        
+        
+        
+        width: 350px;}
+    
+
+
+
+
+        .subtitulo--eureka-1{ 
+
+            position: absolute;
+    
+        
+            
+            top:720px;
+            left:420px;
+            width:400px;
+    
+            font-size: 100px;
+    
+            font-family: 'Mouse Memoirs', sans-serif;
+            color: #F97806 ;
+        
+            
+    
+    
+          }
+    
+    
+    
+          .img-escupiendo{   position: absolute;
+            border-radius: 10px;
+            border:solid 10px #707B7C ;
+    
+        
+            
+            top:1350px;
+    
+            left:360px;
+       }
+    
+    
+       .img-dedo{position: absolute;
+        top:1700px;
+    
+    
+       }
+    
+    
+       .subtitulo--eureka-2{position: absolute;
+        top:1700px;
+        left:800px;
+        width: 300px;
+    
+        font-size: 80px;
+    
+        font-family: 'Mouse Memoirs', sans-serif;
+        color: #F97806 ;
+    
+    
+    
+       }
+
+
+
+
+       .img-dedo-ok{ position: absolute;
+        top:2400px;
+        left:800px;  }
+    
+    
+        .subtitulo--eureka-3{ position: absolute;
+            width: 500px;;
+            top:2450px;
+            left:100px; 
+            font-size: 100px;
+    
+            font-family: 'Mouse Memoirs', sans-serif;
+            color: #F97806 ;
+        
+        
+        
+        }
+
+
+
+
+   }
